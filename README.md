@@ -29,7 +29,7 @@ This Python script automates mouse clicks at specified coordinates on the screen
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ### Author:
-Made by [2cz5](https://github.com/2cz5). For any questions or suggestions, you can reach out to me on Discord: 2cz5.
+Made by [2cz5](https://github.com/2cz5). For any questions or suggestions, you can reach out to me on Discord:2cz5
 
 
 
